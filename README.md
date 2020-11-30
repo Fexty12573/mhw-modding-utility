@@ -11,3 +11,7 @@ Monster List, Player Coords, Action Log etc are logged in the loader console.
 Action dumps get created in nativePC\ActionDumps\MonsterName.txt
 
 Obivously don't do any monster stuff while no monsters are loaded.
+
+#### Config
+"Monster ID" is the ingame id of the monster, it is listed when using "List Loaded Monsters".
+"Action Chain" is the chain of action ids the monster should execute.
