@@ -14,4 +14,5 @@ Obivously don't do any monster stuff while no monsters are loaded.
 
 #### Config
 "Monster ID" is the ingame id of the monster, it is listed when using "List Loaded Monsters".
-"Action Chain" is the chain of action ids the monster should execute.
+"Action Chain" is the chain of action ids the monster should execute. (It's *not* limited to 5 moves)
+To add a new action chain simply copy paste an already existing one and edit it.
