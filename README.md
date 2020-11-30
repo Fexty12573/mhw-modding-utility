@@ -2,7 +2,7 @@
 Utility with various functions for MHW modding
 
 ## Install
-Put both files in nativePC\plugins, launch game. Exe will launch when game launches.
+Put all 3 files in nativePC\plugins, launch game. Exe will launch when game launches.
 
 ### Usage
 To select a monster click "List Loaded Monsters" and read index of preferred monster. Input that into "Target Monster Index" box and hit Apply.
