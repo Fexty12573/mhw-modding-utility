@@ -18,4 +18,4 @@ Obivously don't do any monster stuff while no monsters are loaded.
 To add a new action chain simply copy paste an already existing one and edit it.
 
 
-![Preview](https://github.com/Fexty12573/mhw-modding-utility/img/image.jpg?raw=true)
+![Preview](https://github.com/Fexty12573/mhw-modding-utility/blob/main/img/image.jpg?raw=true)
